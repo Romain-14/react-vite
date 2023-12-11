@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "label": "télé",
+        "description": "télévision 4K",
+        "price": 400,
+        "category": "électronique",
+        "image": "tv2.jpg",
+        "alt": "télévision accroché au mur avec un néon de couleur bleu tout autour",
+        "sold": 47
+    },
+    {
+        "id": 2,
+        "label": "ordinateur",
+        "description": "ordinateur portable",
+        "price": 1200,
+        "category": "électronique",
+        "image": "portable.jpg",
+        "sold": 12
+    },
+    {
+        "id": 3,
+        "label": "table",
+        "description": "table en bois",
+        "price": 100,
+        "category": "meuble",
+        "image": "table-bois.jpg",
+        "sold": 3
+    },
+    {
+        "id": 4,
+        "label": "chaise",
+        "description": "chaise en bois",
+        "price": 50,
+        "category": "meuble",
+        "image": "chaise.jpg",
+        "sold": 5
+    },
+    {
+        "id": 5,
+        "label": "vélo",
+        "description": "vélo de course",
+        "price": 150,
+        "category": "sport",
+        "image": "velo.jpg",
+        "sold": 0
+    },
+    {
+        "id": 6,
+        "label": "raquette",
+        "description": "raquette de tennis",
+        "price": 50,
+        "category": "sport",
+        "image": "raquette.jpg",
+        "sold": 0
+    },
+    {
+        "id": 7,
+        "label": "téléphone",
+        "description": "téléphone portable",
+        "price": 200,
+        "category": "électronique",
+        "image": "telephone.jpg",
+        "sold": 0
+    },
+    {
+        "id": 8,
+        "label": "lit",
+        "description": "lit en bois",
+        "price": 300,
+        "category": "meuble",
+        "image": "lit.jpg",
+        "sold": 0
+    },
+    {
+        "id": 9,
+        "label": "tapis",
+        "description": "tapis en laine",    
+        "price": 100,
+        "category": "meuble",
+        "image": "tapis.jpg",
+        "sold": 0
+    },
+    {
+        "id": 10,
+        "label": "ballon",
+        "description": "ballon de foot",
+        "price": 20,
+        "category": "sport",
+        "image": "ballon.jpg",
+        "sold": 0
+    }
+]
